@@ -2432,4 +2432,4 @@ client.on("message", (message) => {
 });  
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
+client.login('NDc4OTQwMTIwMTI5NzMyNjA4.DnsgkA.RVlLkeveX6uuJwHCsUTdCwlGTC4');
